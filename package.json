@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1",
+    "nodemon": "^3.0.2"
+  },
+  "name": "osa-7",
+  "version": "1.0.0",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon library.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
